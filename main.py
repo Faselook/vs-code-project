@@ -1,4 +1,5 @@
 import pz
+import pz_2
 
 #pz.pz1()
 
@@ -8,3 +9,10 @@ import pz
 
 # pz.pz4()
 
+# pz.pz5()
+
+#pz.pz6()
+
+# pz2.pz_2()
+
+pz_2.pz_3()
